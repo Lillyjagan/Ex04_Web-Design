@@ -26,9 +26,47 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```<html>
+<head>
+<title>Agri Search Engine</title>
+</head>
+<body>
+<h1 align="center">AGRI SEARCH ENGINE</h1>
+<h3>
+IRRIGATION:
+<a href="https://www.google.com/search?q=irrigation&source=lmns&rlz=1C1CHBD_enIN1033IN1033&hl=en&sa=X&ved=2ahUKEwiks9CDpL__AhX373MBHansBQYQ_AUoAHoECAEQAA">
+<img src="irrigationimage.jpeg" height="200" width="200">
+</a>
+<br>
+<br>
+SOWING:
+<a href="https://www.google.com/search?q=sowing&rlz=1C1CHBD_enIN1033IN1033&oq=sow&aqs=chrome.0.69i59j69i57j0i67i650j46i131i433i512j0i67i433i650j0i67i650j0i3j0i67i650j0i131i433i512j0i512.53163657j0j15&sourceid=chrome&ie=UTF-8">
+<img src="sowing.jpeg" height="200" width="200">
+</a>
+<br>
+<br>
+TRACTOR:
+<a href="https://www.google.com/search?q=tractor&oq=&aqs=chrome.0.35i39i362l8.53408098j0j15&sourceid=chrome&ie=UTF-8">
+<img src="tractorimage.jpeg" height="200" width="200">
+</a>
+<br>
+<br>
+SOWNG MACHINE:
+<a href="https://www.google.com/search?q=sowing+machine&rlz=1C1CHBD_enIN1033IN1033&sxsrf=APwXEdfICT1IPCalS_0upBxBkggswOL7UA:1686626856205&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi0vIfVpr__AhUBZmwGHQe4AioQ_AUoAXoECAEQAw">
+<img src="sowingmachine.jpeg" height="200" width="200">
+</a>
+<br>
+<br>
+FERTILIZER:
+<a href="https://www.google.com/search?q=fertilizer&source=lmns&rlz=1C1CHBD_enIN1033IN1033&hl=en&sa=X&ved=2ahUKEwiZyPajp7__AhWyx6ACHWG6DbcQ_AUoAHoECAEQAA">
+<img src="fertilizer.jpeg">
+</a>
+</body>
+</html>
+```
 
 ## OUTPUT
+![modelpracticaloutput1](https://github.com/Lillyjagan/Ex04_Web-Design/assets/128703180/99a1671d-8c17-46d8-aa22-1eb2344f0e8c)
 
 
 ## RESULT
